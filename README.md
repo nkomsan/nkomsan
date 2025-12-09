@@ -93,5 +93,8 @@ Sponsor me</a>.
 </p>
 
 ---
+### Server Status
+<img src="https://uptime.komnextion.com/api/badge/11/status" /> Flaplock
+---
 
 Thanks
